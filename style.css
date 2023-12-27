@@ -1,0 +1,12 @@
+cd ---it helps to go to the starting folder
+cd foldername --- it helps to go the entered folder
+git status --- it shows the status of the git
+git add . -- it helps to add all files present inside our folder (used to add a enomorous of files in this one comment)
+#now the git status is shown
+git commit --m "file name" -- it automatically commit the file but not pushed into the github
+git push origin main -- it will make an error because we are not create our new repository in github after creating
+the new folder..
+#create a new repostiory in github and copy the link for this below comment
+git remote add origin (link) -- it will automatically add the  github repository into the inside
+git  branch --M main --it convert the master branch name into main branch name
+git push origin master -- it change the branch name as main into master
